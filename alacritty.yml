@@ -1,0 +1,5 @@
+# https://github.com/oupnkalr/alacritty
+colors:
+  primary:
+    background: "#212529"  # GRAY 9
+    foreground: "#f8f9fa"  # GRAY 0
